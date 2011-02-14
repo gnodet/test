@@ -197,7 +197,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.1</version>
+                <version>2.2-SNAPSHOT</version>
             </plugin>
 
             <!-- include all the dependencies into the jar so it can run standalone -->

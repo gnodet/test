@@ -33,6 +33,14 @@
         <url>http://github.com/gnodet/test</url>
     </scm>
 
+  <distributionManagement>
+    <site>
+      <id>local-nexus</id>
+      <name>local-nexus</name>
+      <url>http://localhost:8081/nexus/staging/deploy/maven2</url>
+    </site>
+  </distributionManagement>
+
     <developers>
         <developer>
             <id>jdillon</id>

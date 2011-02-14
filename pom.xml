@@ -28,15 +28,10 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git://github.com/jdillon/jline2.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/jdillon/jline2.git</developerConnection>
-        <url>http://github.com/jdillon/jline2</url>
+        <connection>scm:git:git://github.com/gnodet/test.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/gnodet/test.git</developerConnection>
+        <url>http://github.com/gnodet/test</url>
     </scm>
-
-    <ciManagement>
-        <system>Hudson</system>
-        <url>https://grid.sonatype.org/ci/job/JLine2</url>
-    </ciManagement>
 
     <developers>
         <developer>

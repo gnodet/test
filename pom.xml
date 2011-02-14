@@ -23,11 +23,11 @@
     </scm>
 
   <distributionManagement>
-    <site>
+    <repository>
       <id>local-nexus</id>
       <name>local-nexus</name>
       <url>http://localhost:8081/nexus/staging/deploy/maven2</url>
-    </site>
+    </repository>
   </distributionManagement>
 
     <properties>
